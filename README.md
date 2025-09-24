@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-- [Ravi N](https://github.com/yourusername)
+- [Ravi N](https://github.com/Ravinagraj01)
 
 ---
 
